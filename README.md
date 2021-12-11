@@ -1,9 +1,4 @@
-# Rsftiaudeo.github.io
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>黑暗战队腐竹的Vlog's</title>
+
 </head>
 <body>
    <div style="background-color: antiquewhite;">
